@@ -1,4 +1,4 @@
-# pi-wallpanel-pir
+# MiniDash-Wallpanel-PIR
 
 A Raspberry Pi GPIO PIR motion sensor that wakes a WallPanel screensaver via the Home Assistant REST API. When motion is detected at a wall-mounted dashboard, the screensaver stops and the dashboard is shown. WallPanel's own `idle_time` handles returning to the screensaver after inactivity.
 
